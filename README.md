@@ -43,12 +43,7 @@ I'm currently working on improving my skills in Javascript and learning more abo
 
 ## Interests
 
-Apart from Web Development and Data Science, I enjoy hiking, reading books, and playing guitar.
-
-## Fun Fact
-
-I love trying out new food recipes and experimenting with flavors in the kitchen.
-
+Apart from Web Development and Data Science, I enjoy hiking, reading books.
 ## Thank You
 
 Thank you for taking the time to view my profile. Feel free to contact me if you have any questions or would like to collaborate on a project.
