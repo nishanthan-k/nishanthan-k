@@ -7,7 +7,7 @@ I am a aspiring Web Developer and Data Scientist, looking for opportunities to e
 - 💻 I'm passionate about Web Development, Data Science and Machine Learning.
 - 🌱 I’m currently learning Javascrpit and Data Science Libraries in Python.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: nishanthan.rkarunakaran@gmail.com or [LinkedIn](https://www.linkedin.com/in/nishanthan-k-21355b220/)
+- 📫 How to reach me: krn.nishanthan@gmail.com or [LinkedIn](https://www.linkedin.com/in/nishanthan-k-21355b220/)
 
 ## Skills
 
