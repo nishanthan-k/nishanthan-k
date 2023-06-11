@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishanthan</h1>
 <h3 align="center">Embarking on a Data Journey: A Driven Professional Navigating the Universe from India</h3>
 
+![](https://komarev.com/ghpvc/?username=nishanthan-k&color=blue)
 - 🔭 I’m currently dedicated to mastering the art of **unleashing the true power of data.**
 
 - 🌱 I’m currently learning **how to develop and deploy Machine Learning models**
@@ -37,4 +38,4 @@
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
-![](https://komarev.com/ghpvc/?username=nishanthan-k&color=green)
+
