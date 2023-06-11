@@ -21,6 +21,9 @@
 
 - ⚡ My Mantra **Extract. Transform. Laugh!**
 
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="600" align='center'>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nishanthan-k-21355b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishanthan-k-21355b220" height="30" width="40" /></a>
