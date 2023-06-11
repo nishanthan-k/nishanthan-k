@@ -1,49 +1,31 @@
-# Hi there, I'm Nishanthan 👋
+<h1 align="center">Hi 👋, I'm Nishanthan</h1>
+<h3 align="center">Embarking on a Data Journey: A Driven Professional Navigating the Universe from India</h3>
 
-I am a aspiring Web Developer and Data Scientist, looking for opportunities to enhance my skills and grow as a professional in the field.
+- 🔭 I’m currently dedicated to mastering the art of **unleashing the true power of data.**
 
-## About Me
-- 🎓 I'm currently pursuing a Bachelor's degree in Artificial Intelligence and Data Science.
-- 💻 I'm passionate about Web Development, Data Science and Machine Learning.
-- 🌱 I’m currently learning Javascrpit and Data Science Libraries in Python.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: krn.nishanthan@gmail.com or [LinkedIn](https://www.linkedin.com/in/nishanthan-k-21355b220/)
+- 🌱 I’m currently learning **how to develop and deploy Machine Learning models**
 
-## Skills
+- 👯 I’m looking to collaborate with **Data Nerds**
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
+- 👨‍💻 All of my projects are available at [https://linktr.ee/nishanthan.k](https://linktr.ee/nishanthan.k)
 
+- 💬 Ask me about **sensing the numbers**
 
-### Data Science
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- PowerBi
+- 📫 How to reach me **krn.nishanthan@gmail.com**
 
+- ⚡ My Mantra **Extract. Transform. Laugh!**
 
-### Other Skills
-- Git
-- MySQL
-- Oracle
-- Object-Oriented Programming
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nishanthan-k-21355b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishanthan-k-21355b220" height="30" width="40" /></a>
+<a href="https://kaggle.com/nishanthan59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nishanthan59" height="30" width="40" /></a>
+<a href="https://medium.com/@nishanthank9102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nishanthank9102" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nishanthan9153" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="nishanthan9153" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nishanthank9102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nishanthank9102" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nishanthan_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishanthan_k" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nishanthan_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nishanthan_k" height="30" width="40" /></a>
+</p>
 
-## What I'm Currently Working On
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-I'm currently working on improving my skills in Javascript and learning more about Machine Learning algorithms.
-
-## Goals
-
-- 🔭 My goal is to become proficient in Web Development and Data Science.
-- 🌱 I’m looking to collaborate on projects that combine both fields.
-- 📚 I'm constantly learning and improving my skills in both areas.
-
-## Interests
-
-Apart from Web Development and Data Science, I enjoy hiking, reading books.
-## Thank You
-
-Thank you for taking the time to view my profile. Feel free to contact me if you have any questions or would like to collaborate on a project.
