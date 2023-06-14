@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with **Data Nerds**
 
-- 👨‍💻 Check out my ![Portfolio](https://linktr.ee/nishanthan.k)
+- 👨‍💻 Check out my **[Portfolio](https://linktr.ee/nishanthan.k)**
 
 - 💬 Ask me about **sensing the numbers**
 
