@@ -2,9 +2,13 @@
 <h3 align="center">Embarking on a Data Journey: A Driven Professional Navigating the Universe from India</h3>
 
 
-![](https://komarev.com/ghpvc/?username=nishanthan-k&color=blue)
-<a href="https://www.linkedin.com/in/nishanthan-k-21355b220/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-[![Medium: Nishanthan](https://img.shields.io/badge/medium-%40nishanthank9102-blue)](https://medium.com/@nishanthank9102)
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nishanthan_K/) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanthan-k-21355b220)&nbsp;
+[![Linktree : nishanthan.k](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nishanthan.k)
+
+</div>
 
 
 - 🔭 I’m currently dedicated to mastering the art of **unleashing the true power of data.**
@@ -40,6 +44,8 @@
 
 
 <h4>Profile stats :musical_keyboard:</h4>
+
+![](https://komarev.com/ghpvc/?username=nishanthan-k&color=blue)
 
 ![Nishanthan's github stats](https://github-readme-stats.vercel.app/api?username=nishanthan-k&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nishanthan-k&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p> -->
