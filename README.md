@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishanthan</h1>
+<h3 align="center">Google Certified Data Analyst</h3>
 <h3 align="center">Embarking on a Data Journey: A Driven Professional Navigating the Universe from India</h3>
 
 
