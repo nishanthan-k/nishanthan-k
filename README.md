@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nishanthan Karunakaran!</h1>
-<h3 align="center">Google Certified Data Analyst</h3>
-<h3 align="center">Embarking on a Data Journey: A Driven Professional Navigating the Universe from India</h3>
-
-
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nishanthan_K/) &nbsp;
@@ -11,20 +7,18 @@
 
 </div>
 
+🌟 Passionate about crafting delightful user experiences through frontend development!
 
-- 🔭 I’m currently dedicated to mastering the art of **unleashing the true power of data.**
+🚀 Currently, I'm diving deeper into MERN stack to level up my skills.
 
-- 🌱 I’m currently learning **how to develop and deploy Machine Learning models**
+💡 I'm always open to exciting collaborations and projects with fellow frontend enthusiasts!
 
-- 👯 I’m looking to collaborate with **Data Nerds**
+🔍 Check out my **[Portfolio](https://linktree/nishanthan.k)** to know more about me.
 
-- 👨‍💻 Check out my **[Portfolio](https://linktr.ee/nishanthan.k)**
+💬 Let's chat about building intuitive interfaces, optimizing web performance, and pushing the boundaries of frontend development!
 
-- 💬 Ask me about **sensing the numbers**
+📧 Reach me at **krn.nishanthan@gmail.com** to connect or collaborate.
 
-- 📫 How to reach me **krn.nishanthan@gmail.com**
-
-- ⚡ My Mantra **Extract. Transform. Laugh!**
 
 /*
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="600" align='center'>
