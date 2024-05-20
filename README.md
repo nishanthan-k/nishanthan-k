@@ -13,7 +13,7 @@
 
 💡 I'm always open to exciting collaborations and projects with fellow frontend enthusiasts!
 
-🔍 Check out my **[Portfolio](https://linktree/nishanthan.k)** to know more about me.
+🔍 Check out my **[Portfolio](https://linktr.ee/nishanthan.k)** to know more about me.
 
 💬 Let's chat about building intuitive interfaces, optimizing web performance, and pushing the boundaries of frontend development!
 
