@@ -12,7 +12,7 @@
 
 🌱 Continuously learning and sharing knowledge with the community.
 
-🔍 Check out my **[Portfolio](https://nishanthan-karunakaran.vercel.app)** to know more about me.
+🔍 Check out my <a href="https://nishanthan-k.vercel.app" target="_blank"><b>Portfolio</b></a> to know more about me.
 
 💬 Let's chat about building intuitive interfaces, optimizing web performance, and pushing the boundaries of frontend development!
 
