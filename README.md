@@ -5,7 +5,7 @@
 
 
 
-## :male_detective: I'm:
+## :male_detective: About:
 💡 Always eager to explore new technologies and improve development workflows.  
 
 🚀 Building scalable, efficient, and impactful software solutions. 
