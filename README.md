@@ -39,8 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthan-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-<p style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nishanthan-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthan-k&theme=dark&hide_border=false" />
-</p>
+</div>
 
