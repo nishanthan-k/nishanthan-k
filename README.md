@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nishanthan!<br>🚀 Passionate about creating impactful solutions and exploring new technologies.<br>💻 I have 1.7 years of experience working with React, Express, Next.js, Angular, and Spring Boot.<br>🔍 I love solving problems, collaborating on open-source projects, and continually learning.<br>🌱 Always open to new challenges and ways to improve my skills.<br>📫 Feel free to reach out at krn.nishanthan@gmail.com
+👋 Hi, I'm Nishanthan!<br>🚀 Passionate about creating impactful solutions and exploring new technologies.<br>💻 I have 1.7 years of experience working with React, Express, Next.js, Angular, and Spring Boot.<br>🔍 I love solving problems, collaborating on open-source projects, and continually learning.<br>🌱 Always open to new challenges and ways to improve my skills<br>📫 Feel free to reach out at krn.nishanthan@gmail.com
 
 
 ## 🌐 Socials:
